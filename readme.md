@@ -18,4 +18,5 @@ The Online Music Player is a simple web application for playing audio files onli
 - To change volume click Volume Button
 - To change music speed click on the icon with three dots
 
-- git clone https://olgaorl.github.io/Kodutoo1/
+## Demo link: 
+https://olgaorl.github.io/Kodutoo1/
